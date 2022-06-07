@@ -26,7 +26,7 @@ public class LoginGestor extends Login{
         throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
     }
 
-    
+    //hola bb, mandame audio del partido.
  
     
 }
