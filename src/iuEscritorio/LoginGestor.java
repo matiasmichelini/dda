@@ -24,9 +24,6 @@ public class LoginGestor extends Login{
     @Override
     public void llamarProximoCasoUso(Object u) {
         throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
-    }
-
-    //Comentario para commit de prueba
- 
+    } 
     
 }
