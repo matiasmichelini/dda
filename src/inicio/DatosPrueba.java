@@ -5,7 +5,7 @@
  */
 package inicio;
 
-import logica.Fachada;
+import modelo.Fachada;
 
 public class DatosPrueba {
     

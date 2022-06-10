@@ -5,8 +5,8 @@
 package iuEscritorio;
 
 import javax.swing.JOptionPane;
-import logica.Fachada;
-import logica.Usuario;
+import modelo.Fachada;
+import modelo.Usuario;
 
 
 
