@@ -5,7 +5,7 @@
 package iuEscritorio;
 
 import java.awt.Frame;
-import logica.Fachada;
+import modelo.Fachada;
 
 
 public class LoginMozo extends Login{

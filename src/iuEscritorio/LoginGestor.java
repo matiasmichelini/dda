@@ -5,8 +5,8 @@
 package iuEscritorio;
 
 import java.awt.Frame;
-import logica.Fachada;
-import logica.Gestor;
+import modelo.Fachada;
+import modelo.Gestor;
 
 
 
